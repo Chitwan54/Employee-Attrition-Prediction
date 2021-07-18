@@ -5,4 +5,5 @@ Employee attrition refers to the percentage of workers who leave an organization
 
 The Repository consists of the following:
 1) Jupyter Notebook (.pynb)
-2) README.md file
+2) Employee Attrition Dataset
+3) README.md file
